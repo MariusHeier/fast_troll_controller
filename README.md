@@ -2,7 +2,7 @@
 I wanne live in a world where an "amateur" can build the fastest gaming controller.
 It's good trolling. Which... gives its name.. Troll.
 
-# WHAT IS A FAST CONTROLLER?
+# What is a fast controller?
 All movement you do to the controller is known by the computer as close to 1ms as possible (or faster).
 
 #How can you help?
